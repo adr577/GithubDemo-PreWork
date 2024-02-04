@@ -46,12 +46,16 @@ The following **required** functionality is completed:
 <li>Download and play any music offline.</li>
 <li>Create playlists.</li>
 
+<p>&nbsp</p>
+
 <p>An app I've always wanted to create would be a personal academic tracking app. It would have feautures like adding your desired academic work subjects you 
 want to improve on(ex: C++), and inside the folder you can track how many hours a week you've spent practicing, your fallbacks, and and a mini portfolio of what courses, projects, assignments that you have done. There would be other features such as challenging a friend for your desired time period and you'll be able to compare data with each other. Also there would be a progrss bar so people can fill good about themselves as the more work and hours logged the more the bar 
 goes up and you can level up and earn rewards.</p>
 ## Notes
 
-Describe any challenges encountered while building the app.
+<p>&nbsp</p>
+
+<p>A major issue I faced was when trying to add my code to the repository. My github credentials kept on getting invalidated so I had to keep surfing the web for solutions, deleting and moving folders, and even re doing the project. I finally solved this issue through creating a new git repo, commting, pulling, then finally pushing.</p>
 
 ## License
 
